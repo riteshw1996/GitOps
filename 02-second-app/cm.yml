@@ -5,4 +5,4 @@ metadata:
 data:
   index.html: |
     Congratulations! <p>
-    This is your second app deployed via ArgoCD!
+    This is your second app deployed by Ritesh Walia via ArgoCD!
