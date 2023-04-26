@@ -1,2 +1,1 @@
-# GitOps
-Hi, This is my repo for GitOps
+# gitops-101-argocd-samples
